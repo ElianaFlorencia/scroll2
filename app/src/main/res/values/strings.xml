@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scroll</string>
+
+    <string name="contentButtonText"> Actualizar Texto </string>
+    <string name="contentTitleText">esto es un texto personalizado</string>
+    <string name="contentButtonTextOnClick">El Texto fue actualizado</string>
+</resources>
